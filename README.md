@@ -37,4 +37,4 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 <!--END_SECTION:activity-->
 
 
-## [Spotify](https://raw.githubusercontent.com/shawnkost/shawnkost/409d0e52167e7f7e4cbb964bbabef462f4abc8f6/images/spotify.svg) Spotify
+## ![Spotify](https://raw.githubusercontent.com/shawnkost/shawnkost/409d0e52167e7f7e4cbb964bbabef462f4abc8f6/images/spotify.svg) Spotify
