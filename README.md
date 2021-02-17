@@ -1,11 +1,11 @@
 
 ![Banner](https://github.com/shawnkost/shawnkost/blob/master/images/Banner.jpg?raw=true)
 
-## Hi :wave:
+# Hi :wave:
 
 My name is Shawn Kost, and I am a full-stack web developer. Since a young age I have had a love for anything that involves computers and technology. I began with technical theatre learning the ins and outs of stage production and lighting design. That passion has only grown with time which led to my first job as a computer technician, where I integrated computer systems & servers. Ultimately this led me to discovering the world of computer programming with an immense desire to pursue a career within it! I am excited to join a company that will not only challenge me, but help me grow into a better developer.
 
-## :wrench: Languages/Frameworks/Skills
+# :wrench: Languages/Frameworks/Skills
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50">
@@ -20,14 +20,14 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="50" height="50">
 </p>
 
-## :iphone: Applications
+# :iphone: Applications
 **Animaniac**: A web application for users to find different anime series, and view their MyAnimeList
 
 [Demo](https://shawnkost.github.io/ajax-project/) [GitHub](https://github.com/shawnkost/ajax-project)
 
 ![Home Page](https://user-images.githubusercontent.com/71413368/102849573-48480180-43cc-11eb-90df-01718a8a4c22.png)
 
-### **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
+## **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
 
 [GitHub](https://github.com/shawnkost/good-games)
 
@@ -35,10 +35,10 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 ![image](https://user-images.githubusercontent.com/71413368/108270313-2517a500-7124-11eb-8e93-97f4b3555fc7.png)
 
 
-## :star: Stats
+# :star: Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## :zap: Activity
+# :zap: Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#16](https://github.com/shawnkost/good-games/pull/16) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 2. 💪 Opened PR [#16](https://github.com/shawnkost/good-games/pull/16) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
@@ -47,16 +47,16 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 5. ❗️ Opened issue [#14](https://github.com/shawnkost/good-games/issues/14) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 <!--END_SECTION:activity-->
 
-## :mailbox: Contact me
+# :mailbox: Contact me
 <p float="center">
   <img alt="LinkedIn" src="https://img.shields.io/badge/shawn kost%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   <img alt="Gmail" src="https://img.shields.io/badge/shawnmkost-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/29896458ee26555400e5321634c26e39da6d19d5/images/spotify.svg" width="50" height="50">  Spotify
+# <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/29896458ee26555400e5321634c26e39da6d19d5/images/spotify.svg" width="50" height="50">  Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&redirect=true)
 
-## Visitors
+# Visitors
 ![Visitor Count](https://profile-counter.glitch.me/shawnkost/count.svg)
