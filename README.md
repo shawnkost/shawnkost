@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/shawnkost/shawnkost/blob/master/images/Banner.jpg?raw=true
+![Banner](https://github.com/shawnkost/shawnkost/blob/master/images/Banner.jpg?raw=true)
 <!--
 **shawnkost/shawnkost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
