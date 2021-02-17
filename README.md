@@ -37,4 +37,4 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 <!--END_SECTION:activity-->
 
 
-## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/409d0e52167e7f7e4cbb964bbabef462f4abc8f6/images/spotify.svg" width="25" height="25"> Spotify
+## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/409d0e52167e7f7e4cbb964bbabef462f4abc8f6/images/spotify.svg" width="25" height="25">  Spotify
