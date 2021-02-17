@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/shawnkost/shawnkost/blob/master/images/Banner.jpg?raw=true)
 
-Hi :wave:
+## Hi :wave:
 
 My name is Shawn Kost, and I am a full-stack web developer. Since a young age I have had a love for anything that involves computers and technology. I began with technical theatre learning the ins and outs of stage production and lighting design. That passion has only grown with time which led to my first job as a computer technician, where I integrated computer systems & servers. Ultimately this led me to discovering the world of computer programming with an immense desire to pursue a career within it! I am excited to join a company that will not only challenge me, but help me grow into a better developer.
 
