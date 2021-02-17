@@ -23,6 +23,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 ## :iphone: Applications
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **shawnkost/shawnkost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
