@@ -47,5 +47,5 @@ GoodGames: A web application for users to find new games to play, leave reviews 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&redirect=true)
 
-
+## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/shawnkost/count.svg)
