@@ -26,7 +26,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#16](https://github.com/shawnkost/good-games/pull/16) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 2. 💪 Opened PR [#16](https://github.com/shawnkost/good-games/pull/16) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
