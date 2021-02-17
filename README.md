@@ -27,6 +27,8 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<!--START_SECTION:activity-->
+
 <!--
 **shawnkost/shawnkost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
