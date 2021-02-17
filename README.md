@@ -28,3 +28,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#16](https://github.com/shawnkost/good-games/pull/16) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+2. 💪 Opened PR [#16](https://github.com/shawnkost/good-games/pull/16) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+3. 🎉 Merged PR [#15](https://github.com/shawnkost/good-games/pull/15) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+4. 💪 Opened PR [#15](https://github.com/shawnkost/good-games/pull/15) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+5. ❗️ Opened issue [#14](https://github.com/shawnkost/good-games/issues/14) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+<!--END_SECTION:activity-->
