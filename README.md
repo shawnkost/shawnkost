@@ -1,6 +1,6 @@
 
 ![Banner](https://github.com/shawnkost/shawnkost/blob/master/images/Banner.jpg?raw=true)
-![Visitor Count](https://profile-counter.glitch.me/shawnkost/count.svg)
+
 ## Hi :wave:
 
 My name is Shawn Kost, and I am a full-stack web developer. Since a young age I have had a love for anything that involves computers and technology. I began with technical theatre learning the ins and outs of stage production and lighting design. That passion has only grown with time which led to my first job as a computer technician, where I integrated computer systems & servers. Ultimately this led me to discovering the world of computer programming with an immense desire to pursue a career within it! I am excited to join a company that will not only challenge me, but help me grow into a better developer.
@@ -43,6 +43,9 @@ GoodGames: A web application for users to find new games to play, leave reviews 
 
 ## :mailbox: Contact me
 
-## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/042442abb35f2bcc96c3ea5c9ed4e9c6a34ad39f/images/spotify.svg" width="25" height="25">  Spotify
+## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/29896458ee26555400e5321634c26e39da6d19d5/images/spotify.svg" width="25" height="25">  Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&redirect=true)
+
+
+![Visitor Count](https://profile-counter.glitch.me/shawnkost/count.svg)
