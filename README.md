@@ -21,13 +21,13 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 </p>
 
 ## :iphone: Applications
-Animaniac: A web application for users to find different anime series, and view their MyAnimeList
+**Animaniac**: A web application for users to find different anime series, and view their MyAnimeList
 
 [Demo](https://shawnkost.github.io/ajax-project/) [GitHub](https://github.com/shawnkost/ajax-project)
 
 ![Home Page](https://user-images.githubusercontent.com/71413368/102849573-48480180-43cc-11eb-90df-01718a8a4c22.png)
 
-GoodGames: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
+**GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
 [GitHub](https://github.com/shawnkost/good-games)
 
 ## :star: Stats
