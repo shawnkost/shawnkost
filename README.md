@@ -43,6 +43,6 @@ GoodGames: A web application for users to find new games to play, leave reviews 
 
 ## :mailbox: Contact me
 
-## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/409d0e52167e7f7e4cbb964bbabef462f4abc8f6/images/spotify.svg" width="25" height="25">  Spotify
+## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/042442abb35f2bcc96c3ea5c9ed4e9c6a34ad39f/images/spotify.svg" width="25" height="25">  Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&redirect=true)
