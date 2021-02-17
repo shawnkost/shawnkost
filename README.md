@@ -8,16 +8,16 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 # :wrench: Languages/Frameworks/Skills
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/javascript/javascript.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/react/react.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/html/html.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/css/css.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/nodejs/nodejs.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/express/express.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/postgresql/postgresql.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/webpack/webpack.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82335fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/javascript/javascript.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/react/react.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/html/html.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/css/css.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/nodejs/nodejs.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/express/express.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/postgresql/postgresql.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/webpack/webpack.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e5017d3494d/topics/bootstrap/bootstrap.png" width="50" height="50">
 </p>
 
 # :iphone: Applications
@@ -33,7 +33,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 ### [GitHub](https://github.com/shawnkost/good-games)
 
 ![image](https://user-images.githubusercontent.com/71413368/108270169-f13c7f80-7123-11eb-9998-44cb89d2e9eb.png)
-![image](https://user-images.githubusercontent.com/71413368/108270313-2517a350-7124-11eb-8e93-97f4b3555fc7.png)
+![image](https://user-images.githubusercontent.com/71413368/108270313-2517a500-7124-11eb-8e93-97f4b5055fc7.png)
 
 
 # :star: Stats
@@ -55,7 +55,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 </p>
 
 
-# <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/29896458ee26555400e5321634c26e39da6d19d5/images/spotify.svg" width="35" height="35">  Spotify
+# <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/29896458ee26555400e5321634c26e39da6d19d5/images/spotify.svg" width="50" height="50">  Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&redirect=true)
 
