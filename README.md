@@ -22,6 +22,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 ## :iphone: Applications
 Animaniac: A web application for users to find different anime series, and view their MyAnimeList
+
 [Demo](https://shawnkost.github.io/ajax-project/)
 [GitHub](https://github.com/shawnkost/ajax-project)
 
