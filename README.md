@@ -41,6 +41,7 @@ GoodGames: A web application for users to find new games to play, leave reviews 
 5. ❗️ Opened issue [#14](https://github.com/shawnkost/good-games/issues/14) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 <!--END_SECTION:activity-->
 
+## :mailbox: Contact me
 
 ## <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/409d0e52167e7f7e4cbb964bbabef462f4abc8f6/images/spotify.svg" width="25" height="25">  Spotify
 
