@@ -22,11 +22,6 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :iphone: Applications
 
-## **AniManiac**: A web application for users to find different anime series, and view their MyAnimeList
-
-### [Demo](https://shawnkost.github.io/ajax-project/) [GitHub](https://github.com/shawnkost/ajax-project)
-
-![Home Page](https://user-images.githubusercontent.com/71413368/102849573-48480180-43cc-11eb-90df-01718a8a4c22.png)
 
 ## **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
 
@@ -34,6 +29,11 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 ![image](https://user-images.githubusercontent.com/71413368/108270169-f13c7f80-7123-11eb-9998-44cb89d2e9eb.png)
 
+## **AniManiac**: A web application for users to find different anime series, and view their MyAnimeList
+
+### [Demo](https://shawnkost.github.io/ajax-project/) [GitHub](https://github.com/shawnkost/ajax-project)
+
+![Home Page](https://user-images.githubusercontent.com/71413368/102849573-48480180-43cc-11eb-90df-01718a8a4c22.png)
 
 # :star: Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
