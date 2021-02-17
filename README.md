@@ -32,6 +32,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 [GitHub](https://github.com/shawnkost/good-games)
 
 ![image](https://user-images.githubusercontent.com/71413368/108270169-f13c7f80-7123-11eb-9998-44cb89d2e9eb.png)
+![image](https://user-images.githubusercontent.com/71413368/108270313-2517a500-7124-11eb-8e93-97f4b3555fc7.png)
 
 
 ## :star: Stats
