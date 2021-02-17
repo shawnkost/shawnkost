@@ -24,7 +24,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 ## **AniManiac**: A web application for users to find different anime series, and view their MyAnimeList
 
-[Demo](https://shawnkost.github.io/ajax-project/) [GitHub](https://github.com/shawnkost/ajax-project)
+### [Demo](https://shawnkost.github.io/ajax-project/) [GitHub](https://github.com/shawnkost/ajax-project)
 
 ![Home Page](https://user-images.githubusercontent.com/71413368/102849573-48480180-43cc-11eb-90df-01718a8a4c22.png)
 
