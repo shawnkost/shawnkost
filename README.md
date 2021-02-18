@@ -38,7 +38,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 # :iphone: Applications
 
 
-## ::video_game: **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
+## :video_game: **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
 
 ### [GitHub](https://github.com/shawnkost/good-games)
 
