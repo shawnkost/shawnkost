@@ -38,13 +38,13 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 # :iphone: Applications
 
 
-## **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
+## ::video_game: **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
 
 ### [GitHub](https://github.com/shawnkost/good-games)
 
 ![goodGames](https://user-images.githubusercontent.com/71413368/108276433-aa9f5300-712c-11eb-8fa5-efbee57a594e.gif)
 
-## **AniManiac**: A web application for users to find different anime series, and view their MyAnimeList
+## :boom:**AniManiac**: A web application for users to find different anime series, and view their MyAnimeList
 
 ### [Demo](https://shawnkost.github.io/ajax-project/) | [GitHub](https://github.com/shawnkost/ajax-project)
 
@@ -110,19 +110,12 @@ Windows                  43 mins             ███████████�
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/shawnkost/shawnkost/pull/4) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-2. 💪 Opened PR [#4](https://github.com/shawnkost/shawnkost/pull/4) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-3. 🎉 Merged PR [#3](https://github.com/shawnkost/shawnkost/pull/3) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-4. 💪 Opened PR [#3](https://github.com/shawnkost/shawnkost/pull/3) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-5. 🎉 Merged PR [#2](https://github.com/shawnkost/shawnkost/pull/2) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+1. 🎉 Merged PR [#2](https://github.com/shawnkost/shawnkost/pull/2) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+2. 💪 Opened PR [#2](https://github.com/shawnkost/shawnkost/pull/2) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+3. 🎉 Merged PR [#1](https://github.com/shawnkost/shawnkost/pull/1) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+4. 💪 Opened PR [#1](https://github.com/shawnkost/shawnkost/pull/1) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+5. ❗️ Opened issue [#17](https://github.com/shawnkost/good-games/issues/17) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 <!--END_SECTION:activity-->
-
-# :mailbox: Contact me
-<p float="center">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/shawn kost%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img alt="Gmail" src="https://img.shields.io/badge/shawnmkost-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
-
 
 # <img src="https://image.flaticon.com/icons/png/512/2111/2111624.png" width="50" height="50">  Spotify
 
