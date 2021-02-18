@@ -43,6 +43,77 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 408 Contributions in the Year 2021
+ > 
+> 📦 49.4 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    107 commits    ██████░░░░░░░░░░░░░░░░░░░   24.15% 
+🌆 Daytime    248 commits    ██████████████░░░░░░░░░░░   55.98% 
+🌃 Evening    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
+🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.71%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+Tuesday      81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
+Wednesday    166 commits    █████████░░░░░░░░░░░░░░░░   37.47% 
+Thursday     70 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
+Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+Saturday     13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93% 
+Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ███████████████████░░░░░░   77.78% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/shawnkost/shawnkost/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 # :zap: Activity
