@@ -118,11 +118,11 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/shawnkost/good-games/issues/17) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-2. 💪 Opened PR [#21](https://github.com/shawnkost/ajax-project/pull/21) in [shawnkost/ajax-project](https://github.com/shawnkost/ajax-project)
-3. ❗️ Closed issue [#7](https://github.com/shawnkost/good-games/issues/7) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-4. ❗️ Closed issue [#5](https://github.com/shawnkost/good-games/issues/5) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-5. ❗️ Opened issue [#20](https://github.com/shawnkost/ajax-project/issues/20) in [shawnkost/ajax-project](https://github.com/shawnkost/ajax-project)
+1. 🎉 Merged PR [#1](https://github.com/shawnkost/shawnkost/pull/1) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+2. 💪 Opened PR [#1](https://github.com/shawnkost/shawnkost/pull/1) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+3. ❗️ Opened issue [#17](https://github.com/shawnkost/good-games/issues/17) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+4. 💪 Opened PR [#21](https://github.com/shawnkost/ajax-project/pull/21) in [shawnkost/ajax-project](https://github.com/shawnkost/ajax-project)
+5. ❗️ Closed issue [#7](https://github.com/shawnkost/good-games/issues/7) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 <!--END_SECTION:activity-->
 
 # :mailbox: Contact me
