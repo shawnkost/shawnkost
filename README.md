@@ -58,6 +58,6 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 </p>
 
 
-# <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/29896458ee26555400e5321634c26e39da6d19d5/images/spotify.svg" width="50" height="50">  Spotify
+# <img src="https://image.flaticon.com/icons/png/512/2111/2111624.png" width="50" height="50">  Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&redirect=true)
