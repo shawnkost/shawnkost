@@ -42,6 +42,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # :zap: Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#17](https://github.com/shawnkost/good-games/issues/17) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
