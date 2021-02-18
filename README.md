@@ -40,13 +40,13 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 ## :video_game: **GoodGames**: A web application for users to find new games to play, leave reviews for those games, and add games to their list.
 
-### [GitHub](https://github.com/shawnkost/good-games)
+### [Source Code](https://github.com/shawnkost/good-games)
 
 ![goodGames](https://user-images.githubusercontent.com/71413368/108276433-aa9f5300-712c-11eb-8fa5-efbee57a594e.gif)
 
 ## :boom:**AniManiac**: A web application for users to find different anime series, and view their MyAnimeList
 
-### [Demo](https://shawnkost.github.io/ajax-project/) | [GitHub](https://github.com/shawnkost/ajax-project)
+### [Demo](https://shawnkost.github.io/ajax-project/) | [Source Code](https://github.com/shawnkost/ajax-project)
 
 ![Home Page](https://user-images.githubusercontent.com/71413368/102849573-48480180-43cc-11eb-90df-01718a8a4c22.png)
 
