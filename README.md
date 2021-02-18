@@ -110,11 +110,11 @@ Windows                  43 mins             ███████████�
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/shawnkost/shawnkost/pull/2) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-2. 💪 Opened PR [#2](https://github.com/shawnkost/shawnkost/pull/2) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-3. 🎉 Merged PR [#1](https://github.com/shawnkost/shawnkost/pull/1) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-4. 💪 Opened PR [#1](https://github.com/shawnkost/shawnkost/pull/1) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
-5. ❗️ Opened issue [#17](https://github.com/shawnkost/good-games/issues/17) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+1. 🎉 Merged PR [#4](https://github.com/shawnkost/shawnkost/pull/4) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+2. 💪 Opened PR [#4](https://github.com/shawnkost/shawnkost/pull/4) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+3. 🎉 Merged PR [#3](https://github.com/shawnkost/shawnkost/pull/3) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+4. 💪 Opened PR [#3](https://github.com/shawnkost/shawnkost/pull/3) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
+5. 🎉 Merged PR [#2](https://github.com/shawnkost/shawnkost/pull/2) in [shawnkost/shawnkost](https://github.com/shawnkost/shawnkost)
 <!--END_SECTION:activity-->
 
 # <img src="https://image.flaticon.com/icons/png/512/2111/2111624.png" width="50" height="50">  Spotify
