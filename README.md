@@ -37,11 +37,6 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :star: Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnkost&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,6 +94,12 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnkost&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # :zap: Activity
 <!--START_SECTION:activity-->
