@@ -108,11 +108,11 @@ Windows                  15 hrs 31 mins      ███████████�
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/shawnkost/good-games/pull/22) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-2. 💪 Opened PR [#22](https://github.com/shawnkost/good-games/pull/22) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-3. 🎉 Merged PR [#21](https://github.com/shawnkost/good-games/pull/21) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-4. 💪 Opened PR [#21](https://github.com/shawnkost/good-games/pull/21) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-5. 🎉 Merged PR [#20](https://github.com/shawnkost/good-games/pull/20) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+1. 🎉 Merged PR [#24](https://github.com/shawnkost/good-games/pull/24) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+2. 💪 Opened PR [#24](https://github.com/shawnkost/good-games/pull/24) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+3. 🎉 Merged PR [#23](https://github.com/shawnkost/good-games/pull/23) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+4. 💪 Opened PR [#23](https://github.com/shawnkost/good-games/pull/23) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+5. 🎉 Merged PR [#22](https://github.com/shawnkost/good-games/pull/22) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 <!--END_SECTION:activity-->
 
 # <img src="https://image.flaticon.com/icons/png/512/2111/2111624.png" width="50" height="50">  Spotify
