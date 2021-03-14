@@ -110,11 +110,11 @@ Mac                      7 hrs 46 mins       ████████░░░�
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/shawnkost/Discord-Bot/pull/1) in [shawnkost/Discord-Bot](https://github.com/shawnkost/Discord-Bot)
-2. 🎉 Merged PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-3. 💪 Opened PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-4. 🎉 Merged PR [#4](https://github.com/shawnkost/my-portfolio/pull/4) in [shawnkost/my-portfolio](https://github.com/shawnkost/my-portfolio)
-5. 💪 Opened PR [#4](https://github.com/shawnkost/my-portfolio/pull/4) in [shawnkost/my-portfolio](https://github.com/shawnkost/my-portfolio)
+1. 🎉 Merged PR [#1](https://github.com/shawnkost/twisted-rope-assessment/pull/1) in [shawnkost/twisted-rope-assessment](https://github.com/shawnkost/twisted-rope-assessment)
+2. 💪 Opened PR [#1](https://github.com/shawnkost/twisted-rope-assessment/pull/1) in [shawnkost/twisted-rope-assessment](https://github.com/shawnkost/twisted-rope-assessment)
+3. 💪 Opened PR [#1](https://github.com/shawnkost/Discord-Bot/pull/1) in [shawnkost/Discord-Bot](https://github.com/shawnkost/Discord-Bot)
+4. 🎉 Merged PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+5. 💪 Opened PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 <!--END_SECTION:activity-->
 
 # <img src="https://image.flaticon.com/icons/png/512/2111/2111624.png" width="50" height="50">  Spotify
