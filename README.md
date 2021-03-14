@@ -116,7 +116,3 @@ Mac                      7 hrs 46 mins       ████████░░░�
 4. 🎉 Merged PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 5. 💪 Opened PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
 <!--END_SECTION:activity-->
-
-# <img src="https://image.flaticon.com/icons/png/512/2111/2111624.png" width="50" height="50">  Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1215760286&redirect=true)
