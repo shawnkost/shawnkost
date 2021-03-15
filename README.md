@@ -60,9 +60,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shawnkost/twisted-rope-assessment/pull/1) in [shawnkost/twisted-rope-assessment](https://github.com/shawnkost/twisted-rope-assessment)
-2. 💪 Opened PR [#1](https://github.com/shawnkost/twisted-rope-assessment/pull/1) in [shawnkost/twisted-rope-assessment](https://github.com/shawnkost/twisted-rope-assessment)
-3. 💪 Opened PR [#1](https://github.com/shawnkost/Discord-Bot/pull/1) in [shawnkost/Discord-Bot](https://github.com/shawnkost/Discord-Bot)
-4. 🎉 Merged PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
-5. 💪 Opened PR [#39](https://github.com/shawnkost/good-games/pull/39) in [shawnkost/good-games](https://github.com/shawnkost/good-games)
+1. 🎉 Merged PR [#1](https://github.com/shawnkost/typescript/pull/1) in [shawnkost/typescript](https://github.com/shawnkost/typescript)
+2. 💪 Opened PR [#1](https://github.com/shawnkost/typescript/pull/1) in [shawnkost/typescript](https://github.com/shawnkost/typescript)
+3. 🎉 Merged PR [#1](https://github.com/shawnkost/twisted-rope-assessment/pull/1) in [shawnkost/twisted-rope-assessment](https://github.com/shawnkost/twisted-rope-assessment)
+4. 💪 Opened PR [#1](https://github.com/shawnkost/twisted-rope-assessment/pull/1) in [shawnkost/twisted-rope-assessment](https://github.com/shawnkost/twisted-rope-assessment)
+5. 💪 Opened PR [#1](https://github.com/shawnkost/Discord-Bot/pull/1) in [shawnkost/Discord-Bot](https://github.com/shawnkost/Discord-Bot)
 <!--END_SECTION:activity-->
