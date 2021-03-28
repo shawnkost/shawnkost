@@ -60,9 +60,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shawnkost/react-web-player/pull/1) in [shawnkost/react-web-player](https://github.com/shawnkost/react-web-player)
-2. 💪 Opened PR [#1](https://github.com/shawnkost/react-web-player/pull/1) in [shawnkost/react-web-player](https://github.com/shawnkost/react-web-player)
-3. 🎉 Merged PR [#1](https://github.com/shawnkost/typescript/pull/1) in [shawnkost/typescript](https://github.com/shawnkost/typescript)
-4. 💪 Opened PR [#1](https://github.com/shawnkost/typescript/pull/1) in [shawnkost/typescript](https://github.com/shawnkost/typescript)
-5. 🎉 Merged PR [#1](https://github.com/shawnkost/twisted-rope-assessment/pull/1) in [shawnkost/twisted-rope-assessment](https://github.com/shawnkost/twisted-rope-assessment)
+1. 🎉 Merged PR [#2](https://github.com/shawnkost/react-web-player/pull/2) in [shawnkost/react-web-player](https://github.com/shawnkost/react-web-player)
+2. 💪 Opened PR [#2](https://github.com/shawnkost/react-web-player/pull/2) in [shawnkost/react-web-player](https://github.com/shawnkost/react-web-player)
+3. 🎉 Merged PR [#1](https://github.com/shawnkost/react-web-player/pull/1) in [shawnkost/react-web-player](https://github.com/shawnkost/react-web-player)
+4. 💪 Opened PR [#1](https://github.com/shawnkost/react-web-player/pull/1) in [shawnkost/react-web-player](https://github.com/shawnkost/react-web-player)
+5. 🎉 Merged PR [#1](https://github.com/shawnkost/typescript/pull/1) in [shawnkost/typescript](https://github.com/shawnkost/typescript)
 <!--END_SECTION:activity-->
