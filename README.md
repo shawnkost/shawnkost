@@ -60,9 +60,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/shawnkost/code-journal/pull/13) in [shawnkost/code-journal](https://github.com/shawnkost/code-journal)
-2. 🎉 Merged PR [#11](https://github.com/shawnkost/code-journal/pull/11) in [shawnkost/code-journal](https://github.com/shawnkost/code-journal)
-3. 🎉 Merged PR [#12](https://github.com/shawnkost/code-journal/pull/12) in [shawnkost/code-journal](https://github.com/shawnkost/code-journal)
-4. 🎉 Merged PR [#2](https://github.com/shawnkost/vue-web-player/pull/2) in [shawnkost/vue-web-player](https://github.com/shawnkost/vue-web-player)
-5. 💪 Opened PR [#2](https://github.com/shawnkost/vue-web-player/pull/2) in [shawnkost/vue-web-player](https://github.com/shawnkost/vue-web-player)
+1. 🎉 Merged PR [#1](https://github.com/shawnkost/Natours/pull/1) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+2. 💪 Opened PR [#1](https://github.com/shawnkost/Natours/pull/1) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+3. 🎉 Merged PR [#13](https://github.com/shawnkost/code-journal/pull/13) in [shawnkost/code-journal](https://github.com/shawnkost/code-journal)
+4. 🎉 Merged PR [#11](https://github.com/shawnkost/code-journal/pull/11) in [shawnkost/code-journal](https://github.com/shawnkost/code-journal)
+5. 🎉 Merged PR [#12](https://github.com/shawnkost/code-journal/pull/12) in [shawnkost/code-journal](https://github.com/shawnkost/code-journal)
 <!--END_SECTION:activity-->
