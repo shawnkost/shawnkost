@@ -60,9 +60,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/shawnkost/Natours/pull/11) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
-2. 💪 Opened PR [#11](https://github.com/shawnkost/Natours/pull/11) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
-3. 🎉 Merged PR [#10](https://github.com/shawnkost/Natours/pull/10) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
-4. 💪 Opened PR [#10](https://github.com/shawnkost/Natours/pull/10) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
-5. 🎉 Merged PR [#9](https://github.com/shawnkost/Natours/pull/9) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+1. 🎉 Merged PR [#12](https://github.com/shawnkost/Natours/pull/12) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+2. 💪 Opened PR [#12](https://github.com/shawnkost/Natours/pull/12) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+3. 🎉 Merged PR [#11](https://github.com/shawnkost/Natours/pull/11) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+4. 💪 Opened PR [#11](https://github.com/shawnkost/Natours/pull/11) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+5. 🎉 Merged PR [#10](https://github.com/shawnkost/Natours/pull/10) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
 <!--END_SECTION:activity-->
