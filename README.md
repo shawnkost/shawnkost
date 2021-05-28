@@ -60,9 +60,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#144](https://github.com/shawnkost/c1120-code-solutions/pull/144) in [shawnkost/c1120-code-solutions](https://github.com/shawnkost/c1120-code-solutions)
-2. 🎉 Merged PR [#143](https://github.com/shawnkost/c1120-code-solutions/pull/143) in [shawnkost/c1120-code-solutions](https://github.com/shawnkost/c1120-code-solutions)
-3. 🎉 Merged PR [#142](https://github.com/shawnkost/c1120-code-solutions/pull/142) in [shawnkost/c1120-code-solutions](https://github.com/shawnkost/c1120-code-solutions)
-4. 🎉 Merged PR [#14](https://github.com/shawnkost/Natours/pull/14) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
-5. 💪 Opened PR [#14](https://github.com/shawnkost/Natours/pull/14) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+1. 🎉 Merged PR [#15](https://github.com/shawnkost/Natours/pull/15) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+2. 💪 Opened PR [#15](https://github.com/shawnkost/Natours/pull/15) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+3. 🎉 Merged PR [#144](https://github.com/shawnkost/c1120-code-solutions/pull/144) in [shawnkost/c1120-code-solutions](https://github.com/shawnkost/c1120-code-solutions)
+4. 🎉 Merged PR [#143](https://github.com/shawnkost/c1120-code-solutions/pull/143) in [shawnkost/c1120-code-solutions](https://github.com/shawnkost/c1120-code-solutions)
+5. 🎉 Merged PR [#142](https://github.com/shawnkost/c1120-code-solutions/pull/142) in [shawnkost/c1120-code-solutions](https://github.com/shawnkost/c1120-code-solutions)
 <!--END_SECTION:activity-->
