@@ -60,9 +60,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shawnkost/trillo/pull/1) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
-2. 💪 Opened PR [#1](https://github.com/shawnkost/trillo/pull/1) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
-3. 🎉 Merged PR [#16](https://github.com/shawnkost/Natours/pull/16) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
-4. 💪 Opened PR [#16](https://github.com/shawnkost/Natours/pull/16) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
-5. 🎉 Merged PR [#15](https://github.com/shawnkost/Natours/pull/15) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
+1. 🎉 Merged PR [#2](https://github.com/shawnkost/trillo/pull/2) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
+2. 💪 Opened PR [#2](https://github.com/shawnkost/trillo/pull/2) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
+3. 🎉 Merged PR [#1](https://github.com/shawnkost/trillo/pull/1) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
+4. 💪 Opened PR [#1](https://github.com/shawnkost/trillo/pull/1) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
+5. 🎉 Merged PR [#16](https://github.com/shawnkost/Natours/pull/16) in [shawnkost/Natours](https://github.com/shawnkost/Natours)
 <!--END_SECTION:activity-->
