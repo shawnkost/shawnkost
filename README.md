@@ -57,7 +57,7 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/Shaaka"><img src="https://api.daily.dev/devcards/6bcd95f29b56450c9cff3cb27a86edf3.png?r=15j" width="400" alt="Shawn Kost's Dev Card"/></a>
+<a href="https://app.daily.dev/Shaaka"><img src="https://github.com/shawnkost/shawnkost/blob/master/devcard.svg" width="400" alt="Shawn Kost's Dev Card"/></a>
 
 
 # :zap: Activity
