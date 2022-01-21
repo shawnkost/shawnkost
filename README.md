@@ -62,9 +62,9 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 
 # :zap: Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/shawnkost/vue-ajax/issues/1) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
-2. ❗️ Opened issue [#1](https://github.com/shawnkost/vue-ajax/issues/1) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
-3. 💪 Opened PR [#44480](https://github.com/firstcontributions/first-contributions/pull/44480) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 💪 Opened PR [#2](https://github.com/shawnkost/trillo/pull/2) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
-5. 🎉 Merged PR [#1](https://github.com/shawnkost/trillo/pull/1) in [shawnkost/trillo](https://github.com/shawnkost/trillo)
+1. 🎉 Merged PR [#3](https://github.com/shawnkost/vue-ajax/pull/3) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
+2. 💪 Opened PR [#3](https://github.com/shawnkost/vue-ajax/pull/3) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
+3. 🎉 Merged PR [#2](https://github.com/shawnkost/vue-ajax/pull/2) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
+4. ❗️ Closed issue [#1](https://github.com/shawnkost/vue-ajax/issues/1) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
+5. 💪 Opened PR [#2](https://github.com/shawnkost/vue-ajax/pull/2) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
 <!--END_SECTION:activity-->
