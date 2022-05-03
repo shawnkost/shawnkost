@@ -3,16 +3,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shawnkost/">
-    <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/eb680fe0fdbc95c86682b48f1e4f5f2a0d8125df/images/linkedin.svg" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/hashtagnosoul">
-    <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/9f9598274a390661304cf8785ed3952d60e918a3/images/instagram.svg" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
   <a href="mailto:shawnmkost@gmail.com">
-    <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/9f9598274a390661304cf8785ed3952d60e918a3/images/gmail.svg" width="50" height="50">
-  </a>
-  <a href="https://open.spotify.com/user/1215760286">
-    <img src="https://raw.githubusercontent.com/shawnkost/shawnkost/f462bcaa14dfd5cffac8800ff609531a1a4fa2b6/images/spotify.svg" width="50" height="50">
+    <img src="https://github.com/shawnkost/shawnkost/blob/4ee136a1a7a371ceed71117bd89c5312b80b5236/images/icons8-gmail-48.png">
   </a>
 </p>
 
