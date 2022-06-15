@@ -41,13 +41,3 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnkost&count_private=true&show_icons=true&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/Shaaka"><img src="https://github.com/shawnkost/shawnkost/blob/master/devcard.svg" width="400" alt="Shawn Kost's Dev Card"/></a>
-
-
-# :zap: Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/shawnkost/vue-ajax/pull/3) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
-2. 💪 Opened PR [#3](https://github.com/shawnkost/vue-ajax/pull/3) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
-3. 🎉 Merged PR [#2](https://github.com/shawnkost/vue-ajax/pull/2) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
-4. ❗️ Closed issue [#1](https://github.com/shawnkost/vue-ajax/issues/1) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
-5. 💪 Opened PR [#2](https://github.com/shawnkost/vue-ajax/pull/2) in [shawnkost/vue-ajax](https://github.com/shawnkost/vue-ajax)
-<!--END_SECTION:activity-->
