@@ -166,13 +166,6 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 <h2>⭐ Stats</h3>
 
 <div>
-  <img src="https://streak-stats.demolab.com/?user=shawnkost&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shawnkost&custom_title=Shawn's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-  <br>
-</div>
-
-<div>
 <table>
   <tr>
     <td align="center">
