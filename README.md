@@ -169,9 +169,6 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnkost&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shawnkost&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td align="center">
@@ -180,7 +177,5 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
   </tr>
 </table>
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shawnkost&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawnkost&theme=highcontrast&hide_border=true">
