@@ -162,20 +162,3 @@ My name is Shawn Kost, and I am a full-stack web developer. Since a young age I 
   </tbody>
 </table>
 </div>
-
-<h2>⭐ Stats</h3>
-
-<div>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shawnkost&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shawnkost&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawnkost&theme=highcontrast&hide_border=true">
